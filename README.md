@@ -259,6 +259,8 @@ Helm 再次成为最受欢迎的打包 Kubernetes 的方法，成为 64% 的用�
 
 - [基于 Kubernetes 的跨云 AI 训练平台构建与展望 - ArchSummit](https://pan.baidu.com/s/1cdBBRMwfQNhcYLrPV4uDDA)
 
+- [Kubernetes 快速上手](https://www.bilibili.com/video/BV1Tg411P7EB/)
+
   #### ------华为云Cloud Native Lives系列直播 （含PPT文档）-------
   
 - [第1课：云原生技术的前世今生](https://pan.baidu.com/s/1RyPSyaFU3xU3J5t7bmPErA)
